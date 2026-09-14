@@ -4,8 +4,10 @@ An interactive causal network that computes your risk of missing a flight.
 Built for Seminar Topic 3, 5DV244 Human-Centered AI, Umeå University.
 
 ## Run it
+```
 pip install problog
 python main.py
+```
 
 ## What it demonstrates
 
